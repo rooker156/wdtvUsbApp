@@ -3,8 +3,8 @@
 "type":"browser",
 "title":"Hello WDTV",
 "version":"01.00.00",
-"author":"Joe Petruska",
-"author_information":"me@joepetruska.com",
+"author":"Some Person",
+"author_information":"user@email.com",
 "publish_date":"2014/12/09",
 "description":[{ 
             "LanguageCode":"en","Description":"Hello WDTV. This is a first app example to use as a start point." 
