@@ -1,0 +1,23 @@
+{
+"id":"E13370",
+"type":"browser",
+"title":"Hello WDTV",
+"version":"01.00.00",
+"author":"Joe Petruska",
+"author_information":"me@joepetruska.com",
+"publish_date":"2014/12/09",
+"description":[{ 
+            "LanguageCode":"en","Description":"Hello WDTV. This is a first app example to use as a start point." 
+                    }],
+"changelog":"",
+"launch":" http://www.joepetruska.com",
+"launch_args":"",
+"daemon":"",
+"daemon_args":"",
+"requirements":{"network":"1","cookie":"1","navigation_type":"" ,"cehtml_key":"1","backdoor":"","redirect_times":""},
+"app_icon_image":"images/icon-example.png",
+"app_option_image":"images/option-example.png",
+"region_limitation":["US"],
+"app_category":["MOVIE_TV","FEATURED"],
+"user_agent":"",
+}
