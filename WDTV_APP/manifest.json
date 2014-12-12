@@ -10,7 +10,7 @@
             "LanguageCode":"en","Description":"Hello WDTV. This is a first app example to use as a start point." 
                     }],
 "changelog":"",
-"launch":" http://www.joepetruska.com",
+"launch":" https://github.com/rooker156/wdtvUsbApp",
 "launch_args":"",
 "daemon":"",
 "daemon_args":"",
