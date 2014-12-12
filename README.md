@@ -1,6 +1,6 @@
 # Baseline WDTV App On USB requirements
 
-#### This is the basic elements and some primary documentation to stand up a WDTV USB application.
+### This is the basic elements required to stand up a WDTV USB application.
 
 
 To get the official Western Digital SDK visit: http://www.wdc.com/wdtvsdk/Default.aspx
