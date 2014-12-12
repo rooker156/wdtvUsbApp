@@ -1,4 +1,4 @@
-# Baseline WDTV App On USB requirements
+# WDTV USB App Baseline Requirements
 
 ### This is the basic elements required to stand up a WDTV USB application.
 
